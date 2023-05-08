@@ -1,0 +1,13 @@
+{
+  "name": "socket-example",
+  "version": "1.0.0",
+  "description": "Sending token swap transactions through socket",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "erc-20-abi": "^1.0.0",
+    "ethers": "^5.7.0",
+    "node-fetch": "2"
+  }
+}
